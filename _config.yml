@@ -1,11 +1,11 @@
 # Site settings
-author: LaRaye Johnson
-title: 
+author: LaRaye 
+title: Code Life
 header-img: img/home-bg.png
 email: lnj2105@gmail.com
-copyright_name: LaRaye Johnson
+copyright_name: LaRaye 
 description: > # this means to ignore newlines until "baseurl:"
-  
+  The Highs and Lows of Learning to Program
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  LaRaye
