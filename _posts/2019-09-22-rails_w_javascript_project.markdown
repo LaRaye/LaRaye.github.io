@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Rails w/ Javascript Project"
-date:       2019-09-22 19:21:46 +0000
+title:      "Rails w/ Javascript Project - CORS issue"
+date:       2019-09-22 15:21:47 -0400
 permalink:  rails_w_javascript_project
 ---
 
