@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "React-Redux Project: Adding Search Part 1"
-date:       2019-12-09 05:42:33 +0000
+date:       2019-12-09 00:42:34 -0500
 permalink:  react-redux_project_adding_search_part_1
 ---
 
